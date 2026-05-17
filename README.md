@@ -12,11 +12,9 @@ My favorite workflows involve integrating **AI APIs (like Gemini)**, securely ma
 
 I've got a bunch of pinned projects, but my favorites right now are **Studyfy AI** (an exam-prep generation tool) and my **AI Skin Health Assistant** hackathon prototype.
 
-Currently, I'm pursuing my BS in Artificial Intelligence and Software Engineering—and proudly maintaining a 4.5 GPA!
+Currently, I'm pursuing my BS in Artificial Intelligence.
 
 ### Fun Facts:
 
-* 🏏 I'm a massive cricket enthusiast.
 * 🎨 I enjoy graphic design, creating logos, and digital photo restoration on the side.
-* 📝 I've authored an academic research paper on numerical approximations for PDEs.
 * **Hobbies:** Building AI projects, cricket, graphic design.

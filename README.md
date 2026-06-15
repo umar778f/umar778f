@@ -1,20 +1,33 @@
 # Hey there! 👋
 
-I'm **Umar Farooq**, an aspiring **AI Engineer** and Artificial Intelligence student based in Pakistan.
+I'm **Umar Farooq**, an Artificial Intelligence student at the **University of Management and Technology (UMT), Pakistan**.
 
-I design and build modern full-stack AI web applications and robust software solutions.
+🌱 Currently learning **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures**.
 
-If an idea pops into my head, chances are I'll build an AI-powered tool for it and ship it.
+💻 I enjoy solving programming problems and building small projects to improve my coding skills.
 
-My go-to tech stack for building fast, scalable web apps features **React + Vite + TypeScript** on the frontend, a secure **Node.js/Express** API on the backend, and **Firebase** for hosting and backend services. Beyond web development, my core stack includes **C++, and Java** for AI integrations and heavy lifting. 
+🤖 My goal is to become an **AI Engineer** and work on Machine Learning and Artificial Intelligence technologies.
 
-My favorite workflows involve integrating **AI APIs (like Gemini)**, securely managing configurations, structuring research in **LaTeX**, and creating digital designs.
+📚 Currently pursuing a **BS in Artificial Intelligence**.
 
-I've got a bunch of pinned projects, but my favorites right now are **Studyfy AI** (an exam-prep generation tool) and my **AI Skin Health Assistant** hackathon prototype.
+## Skills
+- C++
+- Problem Solving
+- Basic Data Structures
+- Object-Oriented Programming (Learning)
 
-Currently, I'm pursuing my BS in Artificial Intelligence.
+## Currently Learning
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Artificial Intelligence Fundamentals
 
-### Fun Facts:
+## Goals for 2026
+- Build more C++ projects
+- Learn Data Structures & Algorithms
+- Explore Machine Learning
+- Contribute to Open Source
 
-* 🎨 I enjoy graphic design, creating logos, and digital photo restoration on the side.
-* **Hobbies:** Building AI projects, cricket, graphic design.
+## Fun Facts
+- 🏏 I enjoy playing and watching cricket.
+- 💡 I like learning new technologies.
+- 🚀 Always working to improve my programming skills.

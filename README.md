@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/umar778f/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:25005376088@skt.umt.edu.pk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -29,15 +32,3 @@ BS Artificial Intelligence student at the University of Management and Technolog
 - Strengthen DSA fundamentals
 - Begin exploring Machine Learning
 - Make first open-source contributions
-
----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=umar778f&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-</p>
-
-<p align="center"><sub>Open to connecting — reach out on LinkedIn.</sub></p>
-## Fun Facts
-- 🏏 I enjoy playing and watching cricket.
-- 💡 I like learning new technologies.
-- 🚀 Always working to improve my programming skills.

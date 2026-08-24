@@ -1,4 +1,3 @@
-<h1 align="center">Umar Farooq</h1>
 <h3 align="center">AI Undergraduate | Building Python & ML Foundations | Aspiring AI Engineer</h3>
 
 <p align="center">

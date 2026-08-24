@@ -1,5 +1,5 @@
 <h1 align="center">Umar Farooq</h1>
-<h3 align="center">AI Student @ UMT Pakistan | Aspiring AI/ML Engineer</h3>
+<h3 align="center">AI Undergraduate | Building Python & ML Foundations | Aspiring AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umar778f/" target="_blank">

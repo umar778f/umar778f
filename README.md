@@ -1,32 +1,42 @@
-# Hey there! 👋
+<h1 align="center">Umar Farooq</h1>
+<h3 align="center">AI Student @ UMT Pakistan | Aspiring AI/ML Engineer</h3>
 
-I'm **Umar Farooq**, an Artificial Intelligence student at the **University of Management and Technology (UMT), Pakistan**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/umar778f/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-🌱 Currently learning **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures**.
+---
 
-💻 I enjoy solving programming problems and building small projects to improve my coding skills.
+### About
 
-🤖 My goal is to become an **AI Engineer** and work on Machine Learning and Artificial Intelligence technologies.
+BS Artificial Intelligence student at the University of Management and Technology (UMT), Pakistan. Focused on building a strong foundation in C++, Object-Oriented Programming, and Data Structures & Algorithms, with the goal of becoming an AI Engineer working on Machine Learning and AI systems.
 
-📚 Currently pursuing a **BS in Artificial Intelligence**.
+### Skills
 
-## Skills
-- C++
-- Problem Solving
-- Basic Data Structures
-- Object-Oriented Programming (Learning)
+`C++` `Object-Oriented Programming` `Data Structures` `Problem Solving`
 
-## Currently Learning
-- Object-Oriented Programming (OOP)
+### Currently Learning
+
 - Data Structures & Algorithms
+- Object-Oriented Programming
 - Artificial Intelligence Fundamentals
 
-## Goals for 2026
-- Build more C++ projects
-- Learn Data Structures & Algorithms
-- Explore Machine Learning
-- Contribute to Open Source
+### 2026 Goals
 
+- Build and ship more C++ projects
+- Strengthen DSA fundamentals
+- Begin exploring Machine Learning
+- Make first open-source contributions
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=umar778f&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+</p>
+
+<p align="center"><sub>Open to connecting — reach out on LinkedIn.</sub></p>
 ## Fun Facts
 - 🏏 I enjoy playing and watching cricket.
 - 💡 I like learning new technologies.

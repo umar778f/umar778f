@@ -55,7 +55,5 @@ I'm **Umar Farooq**, a BS Artificial Intelligence student at the **University of
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar778f&style=flat-square&color=blue" alt="profile views" />
-  <br><br>
   <i>"The expert in anything was once a beginner." — Helen Hayes</i>
 </div>

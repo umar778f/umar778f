@@ -35,7 +35,6 @@ I'm **Umar Farooq**, a BS Artificial Intelligence student at the **University of
 
 ### 🛠️ Projects
 
-- **[minesweeper-cli](https://github.com/umar778f/minesweeper-cli)** — A console-based Minesweeper game built in C++ as my 2nd semester project
 - **[ai-meal-analyzer](https://github.com/umar778f/ai-meal-analyzer)** — Analyzes meal images and provides instant nutritional breakdowns
 
 ---
